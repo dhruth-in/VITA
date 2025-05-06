@@ -34,7 +34,6 @@ Include interface visuals such as:
 * Nearby Hospital Map
 * Chatbot Interaction
 * Medicine Booking Page
-  *(You can place images in a folder like `/assets` and add them here.)*
 
 ## 📚 Future Scope
 
