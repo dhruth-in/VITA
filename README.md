@@ -44,4 +44,8 @@ Include interface visuals such as:
 
 ## Author
 
-**Dhruthi N** 
+**Dhruthi N**
+
+---
+
+> **Note**: The project code is not shared as it contains sensitive information such as passwords and API credentials.
