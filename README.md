@@ -30,10 +30,18 @@ This project aims to simplify the healthcare journey for patients by integrating
 Include interface visuals such as:
 
 * Homepage
-* Symptom Analyzer
-* Nearby Hospital Map
-* Chatbot Interaction
-* Medicine Booking Page
+  
+  ![WhatsApp Image 2024-12-05 at 11 29 51_f8ea072a](https://github.com/user-attachments/assets/03cf8373-0752-4f3f-b816-6e02fcce7bc9)
+* Login/Signup Page
+  
+  ![WhatsApp Image 2024-12-05 at 11 30 48_228f0d4f](https://github.com/user-attachments/assets/483786c7-c0eb-4a9f-96ac-b2af4aaefdd1)
+* Profile Card
+
+  ![WhatsApp Image 2024-12-05 at 11 31 31_f6c8acef](https://github.com/user-attachments/assets/9f130280-644f-4cd4-b6a3-ba9127b76361)
+* Dashboard
+
+  ![WhatsApp Image 2024-12-05 at 11 32 18_50a05949](https://github.com/user-attachments/assets/4c302bad-b003-4c88-b277-68c6ca946390)
+
 
 ## Future Scope
 
